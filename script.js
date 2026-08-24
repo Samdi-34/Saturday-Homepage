@@ -3,8 +3,8 @@
 // ============================================
 const terminalLines = [
   { text: '$ az staticwebapp create \\', cls: 'cmd' },
-  { text: '    --name techcrush-homepage \\', cls: 'cmd' },
-  { text: '    --source ./techcrush-homepage', cls: 'cmd' },
+  { text: '    --name Samdi TechHub -homepage \\', cls: 'cmd' },
+  { text: '    --source ./Samdi TechHub-homepage', cls: 'cmd' },
   { text: '', cls: '' },
   { text: 'Preparing deployment...', cls: 'muted' },
   { text: '✓ Build succeeded', cls: 'teal' },
